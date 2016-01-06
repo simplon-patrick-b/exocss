@@ -1,0 +1,7 @@
+.indicateur li{
+    background:#bfd70e;
+    border-radius:50%;
+    height:100px;
+    width:100px;
+    border:2px solid #679403;
+}
