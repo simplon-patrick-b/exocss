@@ -1,1 +1,27 @@
-.master{}
+.master {
+
+}
+.master div {
+  border: 2px;
+  display: inline-block;
+  background-color: #98B98B;
+  width: 40%;
+  margin: 10px;
+}
+
+h2 {
+}
+
+h3 {
+  color: white;
+  text-transform: uppercase;
+}
+
+p {
+}
+
+.master img {
+  width: 200px;
+  position: relative;
+  float: left;
+}
